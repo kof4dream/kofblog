@@ -11,6 +11,7 @@
 	<properties>
 		<org.springframework.version>3.1.2.RELEASE</org.springframework.version>
         <com.kof.blog.version>0.0.1</com.kof.blog.version>
+        <hello></hello>
 	</properties>
 	<dependencies>
 		<dependency>
