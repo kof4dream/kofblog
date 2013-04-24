@@ -11,4 +11,8 @@ public class HomeController {
 	public void listPersonal(){
 		
 	}
+	
+	public void postBlog(){
+		
+	}
 }
