@@ -7,4 +7,8 @@ public class HomeController {
 	public void listBlogs(){
 		
 	}
+	
+	public void listPersonal(){
+		
+	}
 }
